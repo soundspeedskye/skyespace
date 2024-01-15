@@ -13,7 +13,7 @@ const categories = [
     },
     {
         name: 'news',
-        text: 'Topic',
+        text: 'Topic1',
     },
     {
         name: 'map',
