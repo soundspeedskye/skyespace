@@ -1,0 +1,54 @@
+.thumbnail {
+    width: 300px;
+    height: 400px;
+    margin: 55px 45px 45px 45px;
+
+}
+
+.movieInfo{
+    width: 1200px;
+    height: 400px;
+    justify-content: space-between;
+}
+
+.rank {
+    font-family:'Spoqa Han Sans Neo',
+        'sans-serif'; 
+    font-weight: bold;
+    font-size: 3.2rem;
+    margin: 10px 0;
+
+}
+
+.rankNumber{
+    color: #e2be27;
+    font-size: 4rem;
+    text-shadow: 2px 3px 4px black;
+    -webkit-text-stroke: 1px #e6c640;
+}
+
+.movieName {
+    font-family: 'Spoqa Han Sans Neo',
+        'sans-serif';
+    ;
+    font-size: 4rem;
+    margin: 30px 0 ;
+    color: black;
+   
+}
+
+.movieNameLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.overviews{
+    font-family: 'NotoSansKR',
+            'sans-serif';
+        ;
+        font-size: 2rem;
+        margin-right: 50px;
+
+}
+
